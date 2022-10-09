@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rowdy-robos/static/css/main.68c7a8b5.css",
+    "main.js": "/rowdy-robos/static/js/main.ad7ce5cb.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/rowdy-robos/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/rowdy-robos/index.html",
+    "main.68c7a8b5.css.map": "/rowdy-robos/static/css/main.68c7a8b5.css.map",
+    "main.ad7ce5cb.js.map": "/rowdy-robos/static/js/main.ad7ce5cb.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/rowdy-robos/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c7a8b5.css",
+    "static/js/main.ad7ce5cb.js"
+  ]
+}
